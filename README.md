@@ -1,6 +1,9 @@
 # Gitbook
 > [GitBook](https://www.gitbook.com/) 是一个基于 Node.js 的命令行工具，可使用 Github/Git 和 Markdown 来制作精美的电子书。
 
+An example snapshot:
+![Image](./snapshot.png)
+
 # Environment
 macOS Mojave 10.14.4
 > 1. node v10.15.3
