@@ -1,0 +1,47 @@
+{
+      "title": "田和明的书", 
+      "description" : "记录学习，沉淀知识", 
+      "author": "iwhile",
+      "language": "zh-hans", 
+        "plugins": [
+            "theme-code",
+            "anchor-navigation-ex",
+            "splitter",
+            "prism",
+            "favicon",
+            "-sharing",
+            "pageview-count",
+            "-lunr", "-search", "search-pro",
+            "flexible-alerts",
+            "code",
+            "tbfed-pagefooter",
+            "github-buttons",
+            "todo",
+            "-fontsettings",
+            "copy-code-button",
+            "github",
+            "popup",
+            "prism-themes",
+            "-highlight",
+            "advanced-emoji"
+        ],
+        "pluginsConfig": {
+            "theme-default": {
+                "showLevel": true
+              },
+            "prism": {
+                "css": [
+                    "prism-themes/themes/prism-base16-ateliersulphurpool.light.css"
+                ]
+            },
+            "tbfed-pagefooter": {
+            "copyright":"Copyright & pypygo.com 2018",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+            },
+            "github": {
+                "url": "https://github.com/pypygo"
+            }
+        }
+        
+    }
