@@ -5,7 +5,7 @@ An example snapshot:
 ![Image](./snapshot.png)
 
 # Environment
-macOS Mojave 10.14.4
+macOS Mojave 10.14.4 or Deepin15.10.1
 > 1. node v10.15.3
 > 2. npm 6.4.1
 > 3. gitBook 3.2.3
