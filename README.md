@@ -1,6 +1,6 @@
 # myblogbook
 > 1. myblogbook 是基于[GitBook](https://www.gitbook.com/) 构建的。GitBook是一个基于 Node.js 的命令行工具，可使用 Github/Git 和 Markdown 来制作精美的电子书。
-> 2. myblogbook 使用markdown和git来记录存储ｐrogramming knowledge
+> 2. myblogbook 使用markdown和git来记录存储 Programming knowledge
 
 An example snapshot:
 ![Image](./snapshot.png)
