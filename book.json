@@ -2,7 +2,7 @@
     "title": "田和明的书", 
     "description" : "记录学习，沉淀知识", 
     "author": "@ iwhile <iwhile.tian@gmail.com>",
-    "authorHomepage": "http://page.pypygo.com",
+    "authorHomepage": "http://blog.pypygo.com",
     "language": "zh-hans", 
     "styles": {
         "pdf": "static/css/pdf.css"
