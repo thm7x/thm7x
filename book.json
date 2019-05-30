@@ -36,7 +36,6 @@
         "-lunr", "-search", "search-pro",
         "flexible-alerts",
         "code",
-        "github-buttons",
         "todo",
         "-fontsettings",
         "copy-code-button",
@@ -50,7 +49,7 @@
             "showLevel": true
             },
         "page-footer-ex": {
-            "copyright": "Copyright © 2019 [<em>pypygo</em>](https://github.com/pypygo)",
+            "copyright": "Copyright © 2019 [<em>pypygo.com</em>](https://github.com/pypygo)",
             "markdown": true,
             "update_label": "<i>updated</i>",
             "update_format": "YYYY-MM-DD HH:mm:ss"
