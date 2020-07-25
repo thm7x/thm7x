@@ -7,6 +7,3 @@
 ### Hello, I'm 机哥 👋
 
 > 大鹏一日同风起, 扶摇直上九万里, 我是机哥
-
-- 🏠个人博客：[pypygo.com](https://pypygo.com)
-- 🚀比标准库更快的tcp网络库：[xxx](https://pypygo.com/xxx)
