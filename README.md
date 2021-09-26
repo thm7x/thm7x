@@ -6,4 +6,4 @@
 
 ### Hello, I'm 机哥 👋
 
-> 个人技术博客，[博文写在 Issues 里](https://github.com/flew990/flew990/issues)
+> 个人技术博客，[博文写在 Issues 里](https://github.com/binze51/binze51/issues)
